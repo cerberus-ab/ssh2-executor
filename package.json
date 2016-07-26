@@ -1,0 +1,25 @@
+{
+  "name": "ssh2-executor",
+  "version": "0.1.0",
+  "description": "Execute one or more commands on the target machine by ssh2 and reduce results.",
+  "main": "ssh2exe.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cerberus-ab/ssh2-executor.git"
+  },
+  "keywords": [
+    "ssh2",
+    "reduce"
+  ],
+  "author": "Antony Belov <cerberus.ab@mail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cerberus-ab/ssh2-executor/issues"
+  },
+  "homepage": "https://github.com/cerberus-ab/ssh2-executor#readme",
+  "dependencies": {
+    "lodash": "^4.14.0",
+    "ssh2": "^0.5.0"
+  }
+}
